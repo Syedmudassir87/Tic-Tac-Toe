@@ -32,6 +32,3 @@ Tic Tac Toe is a simple and interactive game built using HTML, CSS, and JavaScri
 1. Clone or download this repository.
 2. Open the project folder.
 3. Open "index.html" in your browser.
-
-Author
-Created by Mudassir.
